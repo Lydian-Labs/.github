@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Welcome to the GitHub home of Lydian Labs!
 
 We are a small web development agency specializing in building custom solutions for our clients' online needs. Our focus is on crafting user-friendly applications with modern technologies.
