@@ -1,4 +1,4 @@
-## Welcome to the GitHub home of Lydian Labs!
+## Welcome to the GitHub home of LydianLab!
 
 We are a small web development agency specializing in building custom solutions for our clients' online needs. Our focus is on crafting user-friendly applications with modern technologies for clients in music education.
 
